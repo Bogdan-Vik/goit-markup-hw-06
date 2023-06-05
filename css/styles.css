@@ -895,9 +895,6 @@ margin-bottom: 12px;
 .footer-margin{
     margin-right: 94px;
 }
-.footer-contact-mail{
-    display: flex;
-}
 .feedback-footer-text{
     text-align: left;
 }
@@ -906,4 +903,7 @@ margin-bottom: 12px;
     height: 24px;
     margin-left: 10px;
     fill:var(--text-color);
+}
+.contact-footer-message{
+    display: flex;
 }
