@@ -907,3 +907,6 @@ margin-bottom: 12px;
 .contact-footer-message{
     display: flex;
 }
+.ex-flex{
+    display: flex;
+}
